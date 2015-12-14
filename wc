@@ -1,0 +1,1 @@
+wc (short for word count) is a command that literally count, it will take one argument to specify what needs to be counted. -l for lines, -w for words, -c for bytes, -m for characters.
