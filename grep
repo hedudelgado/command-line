@@ -1,0 +1,1 @@
+grep is a command that takes an argument, searches files and compare them with the argument, when the content match with the argument, grep prints it.
